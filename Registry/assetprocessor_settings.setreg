@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder ArmTestGem/Assets": {
+                    "watch": "@GEMROOT:ArmTestGem@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder ArmTestGem/Registry": {
+                    "watch": "@GEMROOT:ArmTestGem@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
