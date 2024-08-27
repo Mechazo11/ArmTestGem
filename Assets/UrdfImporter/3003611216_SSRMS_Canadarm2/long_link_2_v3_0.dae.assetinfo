@@ -1,0 +1,28 @@
+{
+    "values": [
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "long_link_2_v3_0",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "Scene",
+                    "Scene.Cylinder_001",
+                    "Scene.Cylinder_001.Material_001",
+                    "Scene.Cylinder_001.UV0",
+                    "Scene.Cylinder_001.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "UVsRule"
+                    }
+                ]
+            },
+            "id": "{A4F6F6AE-FFC7-4D10-A69C-E4B74ED640E5}"
+        }
+    ]
+}
